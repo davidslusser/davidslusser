@@ -5,7 +5,8 @@ I'm David, a python/django engineer specializing in creating custom automation, 
 * https://github.com/davidslusser/django-userextensions 
 * https://github.com/davidslusser/django-signalcontrol
 
-Looking to get in touch? Feel free to reach me on LinkedIn: https://www.linkedin.com/in/davidslusser/ 
+Looking to get in touch? Feel free to reach me via LinkedIn: https://www.linkedin.com/in/davidslusser/ 
+Interested in learning more about my skills, background, or projects, checkout http://www.dbslusser.com
 
 <!--
 **davidslusser/davidslusser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
