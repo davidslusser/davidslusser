@@ -8,6 +8,7 @@ I'm David, a python/django engineer specializing in creating custom full-stack s
 * https://github.com/davidslusser/django-userextensions 
 
 Looking to get in touch? Feel free to reach me via LinkedIn: https://www.linkedin.com/in/davidslusser/ 
+
 Interested in learning more about my skills, background, or projects, checkout http://www.dbslusser.com
 
 <!--
