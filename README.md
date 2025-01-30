@@ -13,7 +13,7 @@ I'm a **Seasoned Software Engineer** with extensive experience in **Python** and
 - **DevOps & Containerization:** Docker, Docker Compose, Kubernetes
 - **Version Control:** Git, GitHub, GitLab
 - **Testing & CI/CD:** Pytest, GitHub Actions, GitLab CI, ArgoCD
-- Monitoring & Observability: Splunk, Dynatrace, New Relic, Prometheus, Grafana, Loki, PagerDuty
+- **Monitoring & Observability:** Splunk, Dynatrace, New Relic, Prometheus, Grafana, Loki, PagerDuty
 - **Other Tools & Technologies:** Celery, Redis, RabbitMQ, Terraform, Ansible, AWS, GCP
 
 
