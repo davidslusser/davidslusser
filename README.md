@@ -22,7 +22,7 @@ I'm a **Seasoned Software Engineer** with extensive experience in **Python** and
 
 - 🐍 Admin/Organizer of the **[SpokanePython](https://spokanepython.com/)** [meetup](https://www.meetup.com/python-spokane/) group 
 
-- 📦 Admin of **[DjangoAddicts](https://github.com/djangoaddicts/)** – A Github organization creating awesome packages for Django projects, including:
+- 📦 Maintainer of **[DjangoAddicts](https://github.com/djangoaddicts/)** – A Github organization creating awesome packages for Django projects, including:
     * https://github.com/djangoaddicts/django-pygwalker
     * https://github.com/djangoaddicts/django-hostutils
     * https://github.com/djangoaddicts/django-signalcontrol
